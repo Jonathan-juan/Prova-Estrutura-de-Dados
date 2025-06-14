@@ -1,5 +1,6 @@
-# Prova-Estrutura-de-Dados
-Este repositório tem três programas em C feitos para a prova de Estrutura de Dados. Eles simulam um sistema que organiza e consulta dados de sensores.
+# Trabalho de Estrutura de Dados
+
+Este repositório tem três programas em C feitos para o trabalho de Estrutura de Dados. Eles simulam um sistema que organiza e consulta dados de sensores.
 
 ## Estrutura do Projeto
 
